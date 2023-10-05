@@ -1,0 +1,127 @@
+body{
+
+background-color:black;
+
+}
+
+h1{
+
+
+color:blue;
+font-family:"Press Start 2P";
+text-align:center;
+
+}
+
+#text10{
+border-color:gray;
+border-style: groove;
+border-width: 12px;
+color:yellow;
+font-size:15px;
+font-family:"Press Start 2P";
+left:535px;
+bottom:100px;
+position:relative;
+}
+#sp1{
+font-family:"Press Start 2P";
+background-color:darkorchid;
+width:200px;
+left:532px;
+bottom:-115px;
+position:relative;
+
+}
+#sp2{
+font-family:"Press Start 2P";
+background-color:blueviolet;
+width:200px;
+left:532px;
+bottom:-115px;
+position:relative;
+    
+}
+#sp3{
+font-family:"Press Start 2P";
+background-color:purple;
+width:200px;
+left:532px;
+bottom:-115px;
+position:relative;
+    
+}
+#sp4{
+font-family:"Press Start 2P";
+background-color:darkred;
+width:200px;
+left:532px;
+bottom:-115px;
+position:relative;
+    
+}
+
+
+#sp1txt{
+
+    font-family:"Press Start 2P";
+color:white;
+}
+#sp2txt{
+
+    font-family:"Press Start 2P";
+color:white;
+}
+#sp3txt{
+    font-family:"Press Start 2P";
+
+    color:white;
+}
+#sp4txt{
+
+    font-family:"Press Start 2P";
+    color:white;
+}
+
+#clicks{
+
+display:block;
+font-size:50px;
+font-family:"Press Start 2P";
+color:white;
+text-align:center;
+
+}
+#endgame{
+
+
+display:block;
+text-align:center;
+font-family:"Press Start 2P";
+font-size:50px;
+color:white;
+}
+#text11{
+
+
+    display:flex;
+
+    position:absolute;
+    bottom:0px;
+    font-family:"Press Start 2P";
+    font-size:15px;
+    color:white;
+}
+
+#button{
+
+border-radius:50px;
+font-family:"Press Start 2P";
+background-color:yellowgreen;
+left:520px;
+position:relative;
+font-size:40px;
+height:50px;
+}
+
+
